@@ -1,0 +1,17 @@
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\bin\Debug\net6.0-windows\TrackerUI2.exe
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\bin\Debug\net6.0-windows\TrackerUI2.deps.json
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\bin\Debug\net6.0-windows\TrackerUI2.runtimeconfig.json
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\bin\Debug\net6.0-windows\TrackerUI2.dll
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\bin\Debug\net6.0-windows\TrackerUI2.pdb
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.csproj.AssemblyReference.cache
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.TournamentViewerForm.resources
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.csproj.GenerateResource.cache
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.AssemblyInfoInputs.cache
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.AssemblyInfo.cs
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.csproj.CoreCompileInputs.cache
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.dll
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\refint\TrackerUI2.dll
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.pdb
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\TrackerUI2.genruntimeconfig.cache
+C:\Users\mchristodoulou\Desktop\TrackerProject\TournamentLibrary\TrackerUI2\obj\Debug\net6.0-windows\ref\TrackerUI2.dll
